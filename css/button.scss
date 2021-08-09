@@ -1,0 +1,33 @@
+.button__button-orange{
+    background: #FF3D00;
+    border-radius: 35px;
+    padding: 17px 38px;
+    color: #fff;
+    font-weight: bold;
+    text-transform: uppercase;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 14px;
+}
+
+.button__button-orange:hover{
+    background: #fff;
+    color: black;
+}
+
+.button-wite{
+    background:#fff;
+    border-radius: 35px;
+    padding: 17px 38px;
+    color: black;
+    font-weight: bold;
+    text-transform: uppercase;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 14px;
+}
+
+.button-wite:hover{
+    background:#FF3D00;
+    color: #fff; 
+}
